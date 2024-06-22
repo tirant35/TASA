@@ -1,0 +1,7 @@
+{
+    "LlamaForCausalLM": {
+        "imdb_adapter": "/data/yimin/peft/peft_trainer/output/IMDB_9800",
+        "legal_adapter": "/data/yimin/peft/peft_trainer/output/LEGAL_9800",
+        "medqa_adapter": "/data/yimin/peft/peft_trainer/output/MedQA_9800"
+    }
+}
