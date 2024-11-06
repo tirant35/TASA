@@ -1,0 +1,14 @@
+{
+    "med": {
+        "ie": "/data/data_adapters/med/ie/train.json",
+        "mc": "/data/data_adapters/med/mc/train.json"
+    },
+    "legal": {
+        "ie": "/data/data_adapters/legal/ie/train.json",
+        "mc": "/data/data_adapters/legal/mc/train.json"
+    },
+    "fin": {
+        "red": "/data/data_adapters/fin/red/train.json",
+        "sa": "/data/data_adapters/fin/sa/train.json"
+    }
+}

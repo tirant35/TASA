@@ -1,0 +1,14 @@
+{
+    "fin": {
+        "red": "/models/adapters/fin/red",
+        "sa": "/models/adapters/fin/sa"
+    },
+    "legal": {
+        "ie": "/models/adapters/legal/ie",
+        "mc": "/models/adapters/legal/mc"
+    },
+    "med": {
+        "ie": "/models/adapters/med/ie",
+        "mc": "/models/adapters/med/mc"
+    }
+}

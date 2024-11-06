@@ -1,0 +1,20 @@
+{
+    "med": {
+        "ie": "/data/data_adapters/med/ie/train.json",
+        "mc": "/data/data_adapters/med/mc/train.json",
+        "tg": "/data/data_adapters/med/tg/train.json",
+        "qa": "/data/data_adapters/med/qa/train.json"
+    },
+    "legal": {
+        "ie": "/data/data_adapters/legal/ie/train.json",
+        "mc": "/data/data_adapters/legal/mc/train.json",
+        "jri": "/data/data_adapters/legal/jri/train.json",
+        "jrw": "/data/data_adapters/legal/jrw/train.json"
+    },
+    "fin": {
+        "red": "/data/data_adapters/fin/red/train.json",
+        "sa": "/data/data_adapters/fin/sa/train.json",
+        "ha": "/data/data_adapters/fin/ha/train.json",
+        "cmcq": "/data/data_adapters/fin/cmcq/train.json"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "fin": {
+        "red": "/data/data_adapters/fin/red/test.json",
+        "sa": "/data/data_adapters/fin/sa/test.json"
+    },
+    "legal": {
+        "ie": "/data/data_adapters/legal/ie/test.json",
+        "mc": "/data/data_adapters/legal/mc/test.json"
+    },
+    "med": {
+        "ie": "/data/data_adapters/med/ie/test.json",
+        "mc": "/data/data_adapters/med/mc/test.json"
+    }
+}

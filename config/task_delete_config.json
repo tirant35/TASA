@@ -1,0 +1,6 @@
+{
+    "med": {
+        "tg": "/data/data_adapters/med/tg/train.json",
+        "qa": "/data/data_adapters/med/ot/train.json"
+    }
+}

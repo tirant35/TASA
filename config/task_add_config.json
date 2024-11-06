@@ -1,0 +1,14 @@
+{
+    "med": {
+        "tg": "/data/data_adapters/med/tg/train.json",
+        "qa": "/data/data_adapters/med/qa/train.json"
+    },
+    "legal": {
+        "jri": "/data/data_adapters/legal/jri/train.json",
+        "jrw": "/data/data_adapters/legal/jrw/train.json"
+    },
+    "fin": {
+        "ha": "/data/data_adapters/fin/ha/train.json",
+        "cmcq": "/data/data_adapters/fin/cmcq/train.json"
+    }
+}
